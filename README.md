@@ -1,10 +1,9 @@
 # A small recipe app made in vue
 
 ## About
-```
+
 This is my answer to question 9 and 10 in JS-Frameworks-MA2
 It's a small app which lists different recipes, with a thumbnail, ingredients and a link to the recipes external site.
-```
 
 ## Requirements
 
