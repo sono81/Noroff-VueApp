@@ -22,12 +22,13 @@ export default {
 <style scoped>
 
 .card {
-margin: 0 auto;
+  margin: 0 auto;
   border: 3px solid #666666;
   width: 360px;
-  padding: 20px;
+  padding: 17px;
   text-align: center;
-  margin-bottom: 20px;
+  margin: 0 20px 20px;
+  float: left;
 }
 
 .card img {
@@ -37,6 +38,7 @@ margin: 0 auto;
 .card-info {
   background-color: #eeeeee;
   padding: 10px;
+  height: 206px;
 }
 
 .recipe {
