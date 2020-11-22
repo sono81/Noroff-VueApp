@@ -9,14 +9,11 @@ It's a small app which lists different recipes, with a thumbnail, ingredients an
 ## Requirements
 
 **Node.js**
-```
+
 Download and install Node JS from [this link](https://nodejs.org/en/download/ "Download Node.js")
-```
 
 **Git**
-```
 Download and install Git from [this link](https://gitforwindows.org/ "Download git for Windows")
-```
 
 ## How to install
 
